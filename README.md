@@ -30,9 +30,9 @@
    To level up, you have to collect 10 of each.
    Levels get progressively harder and harder.
    I had to make my own big number notation
-   1aa = 1
-   1ab = 1000
-   1ac = 10000000
+   1aa = 1;
+   1ab = 1000;
+   1ac = 10000000;
    ...
    1jj = 10¹⁰⁰
 
