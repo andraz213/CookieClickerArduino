@@ -53,7 +53,7 @@
    I used pins 0 and 1 for the buttons. 
    They work on 32u4. If you use it on other MCUs, have a look at this page to see
    which pins you can use: https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/
-   I'm handling all the clicks with interrupts, so the pins have to support them as well.
+   I'm handling all the clicks with interrupts, so the pins have to support them as well. You have to connect the buttons to ground. 
 
 
 #   Display
