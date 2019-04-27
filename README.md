@@ -59,6 +59,7 @@
 #   Display
    This game is meant for SSD1306 based 128x32 OLED displays.
    You can change it. I'm using the I2C kind.
+   Library: https://github.com/adafruit/Adafruit_SSD1306
 
 
  #  EEPROM
