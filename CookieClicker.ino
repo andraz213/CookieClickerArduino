@@ -559,9 +559,6 @@ void clickISR() {
 
 void setup() {
 
-  //I'm using pin 4 for powering my OLED. you should delete this lol
-  pinMode(4, OUTPUT);
-  digitalWrite(4, HIGH);
 
   pinMode(CONTEXTPIN, INPUT_PULLUP);
   pinMode(CLICKPIN, INPUT_PULLUP);
