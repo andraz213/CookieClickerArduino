@@ -63,4 +63,7 @@
 
  #  EEPROM
    The game is being backed up to EEPROM every few minutes and everytime it goes to sleep and when you level up.
+   
+   
+   https://github.com/andraz213/CookieClickerArduino
 
