@@ -26,7 +26,7 @@
 
 
    I made this game a bit more interesting with added levels.
-   You have 4 auto clicker uogrades and 4 click upgrades.
+   You have 4 auto clicker upgrades and 4 click upgrades.
    To level up, you have to collect 10 of each.
    Levels get progressively harder and harder.
    I had to make my own big number notation: 
