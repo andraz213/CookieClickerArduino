@@ -518,10 +518,9 @@ void lowPowerStuff() {
       cookies += clickWorth * clicksMult * (0.01 + 0.1 * level);
       i++;
     }
-    while (millis() - prevContx > 30000 && millis() - prevClick) {
-      LowPower.powerDown(SLEEP_8S, ADC_OFF, BOD_OFF);
+    while (millis() - prevContx > 30000 && millis() - prevClick > 30000) {
+      LowPower.powerDown(SLEEP_1S, ADC_OFF, BOD_OFF);
     }
-
     wakeDisplay(&display);
   }
 
